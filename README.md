@@ -32,5 +32,3 @@ FakeNewsDetection/
 │── README.md
 
 
-## Author
-*Lavanya Yadav*
